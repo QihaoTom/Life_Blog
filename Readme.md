@@ -20,6 +20,7 @@ Here is some my life routines.
 * [长安行记]()
 * 北戴河
 * 保定
+---
 * **西安交通大学廉洁领袖夏令营**
 * **中国矿业大学（北京）二等奖学金**
 
@@ -32,6 +33,7 @@ Here is some my life routines.
 * [香港行记]()
 * [长沙行记]()
 * [宝岛行记]()
+---
 * **中山大学廉洁领袖夏令营**
 * **国家奖学金 (¥8000)、中国矿业大学（北京）特等奖学金**
 
@@ -39,6 +41,7 @@ Here is some my life routines.
 * [大连行记]()
 * [齐鲁行记]()
 * [旅行的意义（一）]()
+---
 * **中国政法大学政治与公共管理学院夏令营、中国人民大学教育学院夏令营**
 * **国家留学基金委优秀本科生奖学金** （$1200 per month, 5 months in total）
 
@@ -48,10 +51,12 @@ Here is some my life routines.
 * [ Arkansas| Springbreak 2017]()
 * [ Pensacola | Florida]()
 * College Station（A&M）
+---
 * **中国人民大学中国调查与数据中心（CGSS）实习**
 
 ### 2018
 * [New York](https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Outline.md)
+---
 * **国家留学基金委硕士联合培养奖学金**
 * **清华大学公共管理学院第三届绿色创新夏季学院学员**
 * **南京大学栋梁优秀奖学金**、**南京大学英才二等奖学金**、**南京大学学业二等奖学金**
