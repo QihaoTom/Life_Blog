@@ -1,4 +1,4 @@
-# Travel_Blog
+# Life_Blog
 #### Welcome to my life! The point is all about learning for travling \ travling for learning.
 
 > I have to say that I gradually figure out that Social Science Reserach is somewhat luxury. The most important thing is that for Public Management Research, we have to take the initiation step from the pratice side, until then we sum it up with theories to help people better understanding of what is happening in the public sectors. When theory is wrong, we should change theories, not the practice. As a result, Value and Evaluation are two crucial roles.
@@ -33,14 +33,14 @@ Here is some my life routines.
 * [长沙行记]()
 * [宝岛行记]()
 
-* **国家奖学金** (¥8000)**中国矿业大学（北京）特等奖学金**
+* **国家奖学金** (¥8000) **中国矿业大学（北京）特等奖学金**
 
 ### 2016
 * [大连行记]()
 * [齐鲁行记]()
 * [旅行的意义（一）]()
 
-* **国家留学基金委优秀本科生奖学金**（$1200 per month, 5 months in total）
+* **国家留学基金委优秀本科生奖学金** （$1200 per month, 5 months in total）
 ### 2017
 * [ Houston | Expedition 1]()
 * [ Austin  | Expedition 2]()
