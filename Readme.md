@@ -1,10 +1,12 @@
 # Travel_Blog
-#### Welcome to my life! 
+#### Welcome to my life! The point is all about learning for travling \ travling for learning.
+
+> I have to say that I gradually figure out that Social Science Reserach is somewhat luxury. The most important thing is that for Public Management Research, we have to take the initiation step from the pratice side, until then we sum it up with theories to help people better understanding of what is happening in the public sectors. When theory is wrong, we should change theories, not the practice. As a result, Value and Evaluation are two crucial roles.
 
 Here is some my life routines.
 
 ### 2012
-* **杭州市三号学生**
+* **杭州市三好学生**
 
 ### 2013
 * 天津
