@@ -1,5 +1,5 @@
 # Life_Blog
-#### Welcome to my life! The point is all about learning for traveling \ traveling for learning.
+#### Welcome to my life! The point is all about learning by traveling \ traveling by learning.
 
 > I have to say that I gradually figure out that Social Science Reserach is somewhat luxury. The most important thing is that for Public Management Research, we have to take the initiation step from the pratice side, until then we sum it up with theories to help people better understanding of what is happening in the public sectors. When theory is wrong, we should change theories, not the practice. As a result, Value and Evaluation are two crucial roles.
 
